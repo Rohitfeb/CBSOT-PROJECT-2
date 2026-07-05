@@ -111,7 +111,7 @@ This notebook covers:
 Clone this repository
 
 ```bash
-git clone https://github.com/<your-username>/CBSOT_PROJECT_2.git
+git clone https://github.com/Thakur-saab2001/CBSOT_PROJECT_2.git
 ```
 
 Move into the project directory
@@ -121,10 +121,6 @@ cd CBSOT_PROJECT_2
 ```
 
 Install the required libraries
-
-```bash
-pip install -r requirements.txt
-```
 
 ---
 
