@@ -69,14 +69,16 @@ Summary      Keywords
 
 ## 📂 Repository Structure
 
+```text
 CBSOT_PROJECT_2/
 │
-├── README.md
-├── LICENSE
 ├── .gitignore
-├── requirements.txt
+├── AIResearchpapersystem.ipynb
 ├── EDA.ipynb
-└── AIResearchpapersystem.ipynb
+├── LICENSE
+├── README.md
+└── requirements.txt
+```
 
 ---
 
